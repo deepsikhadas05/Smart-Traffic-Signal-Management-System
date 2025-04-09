@@ -1,4 +1,4 @@
-# Dynamic-Traffic-light-management-system
+# Smart-Traffic-Signal-management-system
 This repository contains files for the traffic light management system using Reinforcement Learning.
 
 ## Basic Idea 
